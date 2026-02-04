@@ -10,9 +10,9 @@ body {
 }
 
 .app {
-  min-height:40%;
+  min-height:100%;
   overflow:scroll;
-  width: 30%;
+  min-width: 30%;
   margin: 40px auto;
   background: white;
   padding: 20px;
